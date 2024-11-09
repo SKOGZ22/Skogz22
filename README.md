@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Myself Sriharan!
 # 💫 About Me:
 🔭 I’m currently working on improving my skills in AIML and data science projects.<br>👯 I’m looking to collaborate on ML experts on hackathons to work together and win with innovative solutions.<br>🤝 I’m looking for help with mastering advanced AIML techniques and enhancing model accuracy and creativity.<br>🌱 I’m currently learning Pandas, NumPy, data analysis, Matplotlib, and scikit-learn.<br>💬 Ask me about beginner-friendly tips for getting into AIML, or how to handle data in Pandas!<br>⚡ Fun fact I’m an ace at serving in badminton and love pushing myself to learn new skills in AIML!
 
